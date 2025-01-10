@@ -1,0 +1,9 @@
+{
+  "/api": {
+    "target": "https://djarviss.ru/rest/",
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
