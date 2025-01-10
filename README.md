@@ -10,7 +10,7 @@ Only use it in following cases
 - You have multiple API you want to merge or separate
 - You have a proxy on a different machine
 
-In other cases you can just use [Basic Example](#basic-example-no-environments-need)
+In other cases you can just use [Basic Example](#basic-example-no-environments-needed)
 ### Development server
 To start a local development server, run:
 ```bash
